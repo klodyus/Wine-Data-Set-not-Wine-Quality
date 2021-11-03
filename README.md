@@ -15,3 +15,5 @@ Data set and its description can find on this website: https://archive.ics.uci.e
 I had a master degree about Artificial Intelligence at UK in 2020. In our Neural Networks and Machine Learning module, We had this project/assigment to pass the module. 
 We did that in MATLAB. I decided to do this assigment in Python to compare and learning differences. When I did it, I understood these Machine Learning Algoirthms
 more deeply.  
+
+I am going to plan that Writing this project A Bachelor of Science Degree student can understand smoothly.
