@@ -10,7 +10,7 @@ The aim of this project is that:
 -Being familiarize sklearn, pandas, matplotlib libraries
 
 
-Data set and its description can find on this website: https://archive.ics.uci.edu/ml/datasets/Wine+Quality
+Data set and its description can find on this website: https://archive.ics.uci.edu/ml/datasets/Wine?ref=datanews.io
 
 I had a master degree about Artificial Intelligence at UK in 2020. In our Neural Networks and Machine Learning module, We had this project/assigment to pass the module. 
 We did that in MATLAB. I decided to do this assigment in Python to compare and learning differences. When I did it, I understood these Machine Learning Algoirthms
