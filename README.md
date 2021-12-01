@@ -4,10 +4,10 @@ Data Analysis using PCA Analysis, K-Means Clustering and Data Classification usi
 
 The aim of this project is that:
 
--Learning data preprocess (normalization and standarzation)
--Principal Component Analysis on the dataset 
--Applying K-means clustering on the dataset
--Being familiarize sklearn, pandas, matplotlib libraries
+- Learning data preprocess (normalization and standarzation)
+- Principal Component Analysis on the dataset 
+- Applying K-means clustering on the dataset
+- Being familiarize sklearn, pandas, matplotlib libraries
 
 
 Data set and its description can find on this website: https://archive.ics.uci.edu/ml/datasets/Wine?ref=datanews.io
